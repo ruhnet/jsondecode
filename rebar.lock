@@ -1,0 +1,8 @@
+{"1.2.0",
+[{<<"euneus">>,{pkg,<<"euneus">>,<<"2.3.0">>},0}]}.
+[
+{pkg_hash,[
+ {<<"euneus">>, <<"4F9B77EFD1A5C7DD9C3CA0AB0C51172035BC39BFF28B37AA9789C173D1DD397A">>}]},
+{pkg_hash_ext,[
+ {<<"euneus">>, <<"335E8A4D6A7F822E4FEA72CA1D3DD56A456F4E13427AF2C0B77B872584CF8048">>}]}
+].
